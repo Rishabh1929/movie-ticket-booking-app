@@ -1,0 +1,1 @@
+Built a real-time ticket booking application, integrating secure payment gateways and dynamic seat allocation. Focused on delivering an intuitive interface, reducing booking time, and improving overall user satisfaction.
